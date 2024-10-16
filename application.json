@@ -18,8 +18,16 @@
   "icon": "medical",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Fire",
       "isDefault": true
+    },
+    {
+      "id": "Selcted",
+      "isDefault": false
+    },
+    {
+      "id": "outside selected",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
