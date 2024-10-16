@@ -33,7 +33,7 @@
         },
         "queryFormat": {
           "componentData": "ROWS",
-          "data": "RANGE",
+          "data": "ROWS",
           "viewType": "component"
         },
         "range": {
